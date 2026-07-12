@@ -1,0 +1,83 @@
+body {
+  background-color: #ececec;
+  height: 100vh;
+  width: 100%;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  color: #333333;
+  font-weight: 700;
+}
+h2 {
+  color: #333333;
+  font-weight: 600;
+}
+p {
+  color: #707070;
+}
+.container {
+  height: 100vh;
+  width: 100%;
+}
+.navbar {
+  background-color: #ececec;
+}
+.navbar-nav .nav-link {
+  margin: 0 12px;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+.a {
+  color: #7d2ae8;
+}
+.abbey {
+  color: #7d2ae8;
+}
+img {
+  object-fit: cover;
+}
+.bi {
+  color: white;
+  background: #7d2ae8;
+  padding: 5px;
+  border-radius: 50%;
+}
+.col-10 {
+  position: relative;
+  display: inline-block;
+}
+.icons {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  margin-top: 30px;
+}
+.btn-outline-primary {
+  background: #7d2ae8;
+  color: white;
+  border-color: #7d2ae8;
+}
+.btn-outline-primary:hover {
+  background: #6a1fe0;
+  border-color: #6a1fe0;
+}
+.btn-primary {
+  background: #7d2ae8;
+  color: white;
+  border-color: #7d2ae8;
+}
+.btn-primary:hover {
+  background: #6a1fe0;
+  border-color: #6a1fe0;
+}
+.btn-outline-secondary {
+  background: #ececec;
+  color: #7d2ae8;
+  border-color: #7d2ae8;
+}
+.btn-outline-secondary:hover {
+  background: #6a1fe0;
+  border-color: #6a1fe0;
+  color: white;
+}
